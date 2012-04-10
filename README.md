@@ -21,6 +21,7 @@ Then you're done!
 
 ##Contact
 Saurabh Sahni 
-Email: contact@saurabhsahni.com
+
 Twitter: http://twitter.com/saurabhsahni
+
 Web: http://www.saurabhsahni.com
