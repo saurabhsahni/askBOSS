@@ -7,16 +7,19 @@ This hack is an extension of Vik Singh’s qna service (http://bossy.appspot.com
 Try askBoss: http://ask-boss.appspot.com
 
 
-#Installation
+##Installation
 Steps to use this code:
+
 1. Install and configure Google App Engine (GAE) 
+
 2. In the config file supply your BOSS consumer key and secret. That can be obtained from http://developer.yahoo.com/search/boss/
+
 3. In the app.yaml file change the application name to your Google App Engine name
 
 Then you're done!
 
 
-#Contact
+##Contact
 Saurabh Sahni 
 Email: contact@saurabhsahni.com
 Twitter: http://twitter.com/saurabhsahni
